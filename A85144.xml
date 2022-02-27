@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The priests ignorance; and contrary walkings to the scriptures: or The practice of the Apostles, who were the true ministers of Jesus Christ; together with thirty seven errours of the priests, discovered.</title>
+            <author>R. F. (Richard Farnworth), d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85144</idno>
+            <idno type="STC">Wing F492</idno>
+            <idno type="STC">Thomason E860_7</idno>
+            <idno type="EEBO-CITATION">99865762</idno>
+            <idno type="PROQUEST">99865762</idno>
+            <idno type="VID">168350</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168350)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 130:E860[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The priests ignorance; and contrary walkings to the scriptures: or The practice of the Apostles, who were the true ministers of Jesus Christ; together with thirty seven errours of the priests, discovered.</title>
+                  <author>R. F. (Richard Farnworth), d. 1666.</author>
+                  <author>Aldam, Thomas, d. 1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>P. 5 signed: Richard Farneworth, Tho. Aldham.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Misprinted in Thomason catalog as E.860[8].</note>
+                  <note>Annotation on Thomason copy: "Nouember 28 1655".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Priesthood --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="religious_tract">
+            <pb n="1" facs="tcp:168350:1" rendition="simple:additions"/>
+            <head>THE Prieſts IGNORANCE; AND <hi>Contrary Walkings to the SCRIPTURES:</hi>
+            </head>
+            <head>OR <hi>The Practice of the Apoſtles, who were the true Miniſters of Jeſus Chriſt; Toge<g ref="char:EOLhyphen"/>ther with Thirty Seven Errours of the Prieſts, Diſcovered.</hi>
+            </head>
+            <p>THe Teachers of this World profeſſe the Scriptures to be their Rule, and Touchſtone to try withall,<note place="margin">2 John 4.9. Iſa. 8.20.</note> and he that walks contrary to the Scriptures is a Seducer, and hath the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirit of Errour.</p>
+            <p>That which makes a Miniſter of the World,<note place="margin">2 Pet. 1.21. Gal. 1.12. Ezek. 3.1. Jer. 23.33. and 22.</note> is <hi>Oxford</hi> and <hi>Cambridge;</hi> and they are ſo long there, give ſo much for their Learning, and when they have done, they have ſo much for their preaching; the Prophets and the Apoſtles did not ſo, Chriſt gave no ſuch Command; and here they act contrary to the Scriptures, and have the ſpirit of Error; And they will let none preach bur themſelves, and ſuch as come from <hi>Oxford</hi> and <hi>Cambridge;</hi> here they act contrary to the Scripture: for the Scripture ſaith, <hi>You may all propheſie one by one, and if any thing be reveal'd to him that ſtands by let the firſt hold his peace:</hi> here they limit the Holy One of <hi>Iſrael,</hi> and ſhew the ſpirit of Errour.</p>
+            <p>The Teachers of the world have a ſet maintenance of the world and if any man refuſe them, they ſue him at the Law:<note place="margin">1 Cor. 6.6. <hi>Acts.</hi> 20.23. 1 Pet 5.2, Deut. 4.2. Prov. 30.32.</note> the Prophets and Apoſtles did not ſo; there act contrary to the Scripture, and have the ſpirit of Errour.</p>
+            <p>The Teachers of the world take a Text, raiſe Doctrines Uſes,
+<pb n="2" facs="tcp:168350:2"/>Points, Tryals, Motives, and have a Clark to ſay, <hi>Amen:</hi> the Apoſtles did not ſo, theſe act contrary to the Scripture, and ſhew the Spirit of Errour.</p>
+            <p>The Teachers of the world ſing <hi>David's</hi> Quaking,<note place="margin">Pſal. 6 5 6, 7. 1 Cor. 14.15. Pſal. 13 11.</note> Trem<g ref="char:EOLhyphen"/>blings, Crying<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Wakings, Praiſes, Prayings, Propheſies, in Meeter, and ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e a Glaſſe to preach an hour; and when they read the Pſalms, Hats muſt be on; when they ſing them, Hats muſt be off, but the Prieſt hath one or two Caps on his head<g ref="char:punc">▪</g> the Apoſtles did not ſo when they ſpoke to the world; theſe act contrary to the Scriptures, and have the ſpirit of Errour.</p>
+            <p>The Teachers of the world ſay, Let us ſing to the praiſe and glory of God, and give the ignorant prophane people words to ſing, as, <hi>I am not puft in m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd, I have no ſcornfull eye,</hi> when as they are puft in mind and have ſcornful eyes, herein they diſhonour the Lord, cauſing people to lye, ſhew<g ref="char:EOLhyphen"/>ing the ſpirit of Errour.</p>
+            <p>The Teachers of the world have the chiefeſt places in the Aſſemblies,<note place="margin">Mat. 23. 6, 7, 8.9.10.11. Mat. 6.5.7.8.</note> called of men Maſters, laying heavy burthens upon the people, ſtand praying in the Synagogues: Jeſus Chriſt forbad ſuch things. The Teachers of the world now act ſuch things, contrary to Chriſts Command and practice; ſo ſhewing themſelves Antichriſt, Seducers and Diſſem<g ref="char:EOLhyphen"/>blers, and have the ſpirit of Errour.</p>
+            <p>The Teachers of the world holds up outward Temples,<note place="margin">1 Cor. 8.10.</note> calling them Churches; whereas the Church is in God, 1 <hi>Theſſ.</hi> 1.1. and calls it the Houſe of God, and thus act con<g ref="char:EOLhyphen"/>trary to the Scriptures: they are Seducers, having the ſpirit of Errour.</p>
+            <p>The Teachers of the world ſprinkle Infants,<note place="margin">Gal. 3.1. Luc. 1. 26.36.</note> telling peo<g ref="char:EOLhyphen"/>ple it's an Ordinance of God, which is contrary to the Scri<g ref="char:EOLhyphen"/>ptures, never commanded by the Lord; but theſe hold it up, and ſo bewitch the people, and are ſeducers, and ſhew forth the ſpirit of Errour.</p>
+            <p>The Teachers of the world call people unto a Sacrament,<note place="margin">Gen. 10. Gen. 29.28.</note> for the which there is no Scripture; here they act contrary to the Scriptures teaching people lyes, contrary to the Scri<g ref="char:EOLhyphen"/>pture, a Declaration of God: here they are ſeducers, and ſhew forth the ſpirit of Errour.</p>
+            <p>
+               <pb n="3" facs="tcp:168350:2"/>
+The Teachers of the world marry people, and take mo<g ref="char:EOLhyphen"/>ney for it, the Apoſtles did not ſo: here they act contrary to the Scripture, ſhewing forth the ſpirit of Errour.</p>
+            <p>The Teachers of the world take mony for burying the Dead,<note place="margin">Mar. 10 8. Mar. 8.12.</note> the Apoſtles did not ſo: here they act contrary to the Scripture, ſhewing the ſpirit of Errour.</p>
+            <p>The Teachers of the world take mony for Churching of Women, the Apoſtles did not ſo: thus theſe act contrary to the Scripture, ſhewing the ſpirit of Errour.</p>
+            <p>The Teachers of the world have <hi>Eaſter</hi> Reckonings, and <hi>Midſummer</hi> dues, and mony out of Servants wages, the Apo<g ref="char:EOLhyphen"/>ſtles did not ſo: theſe act contrary to the Scriptures, and ſhew the ſpirit of Errour.</p>
+            <p>The Teachers of the world preach Funeral Sermons over the Dead, and have ten ſhillings, more or leſs for their pains,<note place="margin">Mar. 10.8. 1 Cor. 16.17, 18.</note> as they can get it, the Apoſtles did not ſo: theſe act contra<g ref="char:EOLhyphen"/>ry to the Scripture, and ſhew the ſpirit of Errour.</p>
+            <p>The Teachers of the world agree with the people for ſo much in the year for preaching,<note place="margin">1 Joh. 2. 16, 17.</note> the Prophets and Apoſtles did not ſo, it's contrary to Chriſt's Command,<note place="margin">Rom. 12.2. Deut. 29.12.</note> 
+               <hi>Freely ye have received, freely give:</hi> thus they act contrary to the Scrip<g ref="char:EOLhyphen"/>ture, ſhewing the ſpirit of Errour.</p>
+            <p>The Teachers of the world go in cuffs, and double Cuffs, and Boot-hoſe-tops, living in the luſt of the fleſh, following the faſhions of the world, which the Apoſtles ſpoke againſt: here they act contrary to the Scripture, ſhewing the ſpirit of Errour.</p>
+            <p>The Teachers of the world take Tythes,<note place="margin">Nehem. 10.48. Nehem. 13.13 Neh. 12.44. Neh. 11, 16.</note> the tenth of mens Eſtates: in the Old time <hi>Levi,</hi> who received Tythes, the Fatherleſſe, Widows, and ſtrangers were to come and be relieved within his gates: but the Prieſts of the world do not fill the Fatherleſſe the Widow, and the ſtrangers; here they act contrary to the Scriptures, and ſhew the ſpirit of Errour.</p>
+            <p>The Teachers of the world ſay men ſhall never be per<g ref="char:EOLhyphen"/>fect,<note place="margin">Mar, 5.48. 1 Cor. 2.6. Phil. 3.15.</note> when the Scripture ſaith, <hi>Be ye perfect, even as your hea<g ref="char:EOLhyphen"/>venly Father is perfect;</hi> and we preach wiſdom to them that are perfect, and every one that is perfect muſt be as his
+<pb n="4" facs="tcp:168350:3"/>Lord; as many as be perfect be thus minded, ſtand perfect and compleat in all the Will of God: here they deny the Scripture, and ſhew the ſpirit of Errour.</p>
+            <p>The Teachers of the world ſay,<note place="margin">Rom. 6.22. Co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſ. 2.111. 2 Co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. h. 17.</note> Men ſhall never over<g ref="char:EOLhyphen"/>come their ſins as long as they are here, nor be made free from the body of ſin, and the Scripture ſaith, we are made free from ſin, and have put off the body of ſin; and they that are Chriſts have crucified the fleſh with the affections and luſts thereof, and all things are become new; here they act contrary to the Scripture, and ſhew the ſpirit of Errour.</p>
+            <p>The Teachers of the World ſay<g ref="char:punc">▪</g> that men ſhall not be ſanctified throughout in body,<note place="margin">Jude 1. 1 Joh. 3.7, 8.</note> ſoul and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirit, but in part, ſo long as they are here; herein they plead for a hold for Satan in them, and are Seducers and Deceivers, for the Scri<g ref="char:EOLhyphen"/>pture ſaith, ye are ſanctified throughout in body, ſoul and ſpirit, and <hi>he that doth righteouſneſſe, is righteous, even as he is righte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us. Let no man dece<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve you: He that ſinneth is of the Dev<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll, and never knew God.</hi> Here they go about to keep people in their ſin, when Chriſt comes to take away ſin, ſpeaking contrary to the Scripture, and ſhewes the ſpi<g ref="char:EOLhyphen"/>rit of Errour.</p>
+            <p>The Teachers of the World ſay, the Letter is Light,<note place="margin">Joh. 8.12. 2 Cor. 4.6.</note> when the Letter ſaith, Chriſt is the Light: and the Letter is the declaration of the light, which was in them, that ſpoke ſorth the Scriptures: here they ſpeak contrary to the Scripture, and ſhew the ſpirit of Errour.</p>
+            <p>The Teachers of the World ſay,<note place="margin">1 Joh. 1.1. Rom. 8.10.</note> that the Letter is the Word, which is falſe, for the Letter ſaith that God is the Word the Letter is a declaration of the Word, which is fire, and ſharper then a two edged ſword; and the word is nigh thee, in thy mouth and in thy heart, and ſo they that draw pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ple to the Letter, telling them it is the Word, are Diſſemblers, Seducers, no Miniſters of the Word but are in an Errour.</p>
+            <p>The Teachers of the World ſay;<note place="margin">2 Cor. 3.6. Ezek. 13.3, 6.17.</note> that the ſpirit is the Letter and they are inſeperable, when the ſpirit ſaith the Letter killeth, and is death, and thou that wouldeſt raiſe the ſpirit out of the dead Letter, thou art a Di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iner and
+<pb n="5" facs="tcp:168350:3"/>Conju<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, following the imaginations of thine own brain; here thou art a ſeducer, and ſhews the ſpirit of Errour.</p>
+            <p>The Teachers of the world ſay,<note place="margin">2 Cor. 5.18, 19.</note> that ſalvation is in the Scripture, and that the power goes along with the Letter, which is death; God is the cauſe of mens ſalvation: here thou art a ſeducer, and ſhews the ſpirit of Errour.</p>
+            <p>The Teachers of the world ſay, that the four Books,<note place="margin">1 Theſſ. 1.5. 1 Pet. 1.19, 20.</note> 
+               <hi>Matthew, Mark Luke</hi> and <hi>John,</hi> is the Goſpel which is but the Letter, a declaration of the Goſpel;<note place="margin">Matth. 23.27, 28.</note> 
+               <hi>Jeſus Chriſt, the Lamb of God, which taketh away the ſins of the world,</hi> is glad tydings to impriſoned ſouls,<note place="margin">Rom. 8.14.</note> 1 <hi>Pet.</hi> 4.6.</p>
+            <p>The Teachers of the world pretending the Scriptures to be their ru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and guide to walk by, and acting contrary; they ſhew themſelves to be ſeducers, diſſemblers and hypo<g ref="char:EOLhyphen"/>crites, and ſhews the ſpirit of Errour.</p>
+            <epigraph>
+               <q>For they are the Sons of God, that are guided by the Spirit of God, to live the life that they did, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat gave forth the Scrip<g ref="char:EOLhyphen"/>tures.</q>
+               <bibl>Richard Farneworth.</bibl>
+            </epigraph>
+            <epigraph>
+               <q>Ceaſe from your Idol Shepherds, for they are the Beaſts that all the world worſhips, and wonders after; hold them not up,<note place="margin">Rev. 13.</note> the Lord is againſt them. Chriſt is the true Shepherd, and his Sheep hear his voyce, but the voice of ſtrangers they will not hear.</q>
+               <bibl>Tho. Aldam.</bibl>
+            </epigraph>
+         </div>
+         <div type="addenda">
+            <pb n="6" facs="tcp:168350:4"/>
+            <p>THe Teachers of the world told us that <hi>Hebrew, Greek,</hi> and <hi>Latin</hi> was the Originall, and ſuch might open the Scriptures who had that originall, and we do ſee that <hi>Pilate</hi> had that originall and could not open the Scriptures but crucified Chriſt,<note place="margin">Luk. 23.38. Joh. 1.1.</note> and when he had ſo done, he wrote in <hi>Hebrew, Greek</hi> and <hi>Latin,</hi> and ſet it over Chriſt, and thus they are contrary to the original ſhewing the Spirit of errour, for in the beginning the word was.</p>
+            <p>And <hi>Luke</hi> a Miniſter of the word ſaid, that they that was Miniſters of the word took in hand to ſet forth in order,<note place="margin">Luk. 1.</note> a declaration, and thus they are contrary to the Scriptures ſhewing the Spirit of errour, and goe about with a forme of godlineſſe to blind people.</p>
+            <p>And the Apoſtle ſaith that the Goſpel was preached by <hi>Abraham,</hi>
+               <note place="margin">Rom. 1.16. Gala. 3.8.</note> before the letter was written, and this Goſpel are they aſhaimed of, which is the power, ſhewing that Spirit which is erred from it.</p>
+            <p>And the Teachers of the world ſaith that Chriſt hath not enlightened every man that is come into the world,<note place="margin">Joh. 1.</note> when as the Scripture ſaith he doth, and <hi>John</hi> bare witnſſe to it that he did, and thus they are erred from the Spirit that gave forth the Scriptures, ſhewing the contrary, a ſpirit of errour.</p>
+            <p>And the Teachers of the world have told us that the ſtee<g ref="char:EOLhyphen"/>ple-houſe is the Church, which was in the daies of Qu. <hi>Mary</hi> a place for all her <hi>Jeſuit</hi> Prieſts, and ſhe made a decree that whoſoever did diſturbe any of her Prieſts in the time of their ſervice, whilſt they was at their Maſſe or Miniſtring, as they call it, in their Church or Church<g ref="char:EOLhyphen"/>yard, or did deface any Croſſe or Crucifix, they was to ſuffer three months impriſonment, and ſhe was called a defender of the faith who gave forth this decree, which is quite contrary to Scripture and faith,<note place="margin">2 Theſſe. 1.</note> as you may read 1 <hi>Cor.</hi> 14. which ſaith, you may all propheſy one by one, that all may learne, that all may be comforted; and thus the Papiſts and the Prieſts now are contrary to the faith, and contrary to the Scriptures, and the Church, ſhewing the
+<pb n="7" facs="tcp:168350:4"/>Spirit of errour: for the Scripture ſaith,<note place="margin">1 Theſſe. 1.1. 1 Cor. 14.3 0.</note> the Church is in God; And the Miniſter of God ſaith, if any thing be re<g ref="char:EOLhyphen"/>veiled to another that ſits by, let the firſt hold his peace. And the practi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the Miniſters of God and the Church diſturbs the Miniſters of the world, now in our daies, as it did the Papiſts Prieſts, which makes them priſon and perſecute, manifeſting the Spirit of errour.</p>
+            <p>And the Teachers of the world told us that <hi>Cambridge,</hi> and <hi>Oxford</hi> is the two Fountaines, and thoſe was the Mi<g ref="char:EOLhyphen"/>niſters of Chriſt that came from thence,<note place="margin">Gala. 1.</note> which we ſee through the mercy of the Lord, that they are the Miniſters of the world, made by the will of man, and ſo are con<g ref="char:EOLhyphen"/>trary to the Scriptures, ſhewing the Spirit of errour.</p>
+            <p>And the Teachers of the world told us that they was Mi<g ref="char:EOLhyphen"/>niſters of God, and they was to open the Scriptures, and yet they told us they had not that Spirit that gave forth the Scriptures; ſo then another, the Spirit of errour.</p>
+            <p>The Teachers of the world told us, they was Miniſters of Chriſt, and they do take Tyches of men,<note place="margin">2 Pet. 3.3. Jude. 11. Gen. 4.</note> and if they will not give it them, they ſue them at the law, and take tre<g ref="char:EOLhyphen"/>ble, but we do not read in the Scriptures that the falſe Prophets, falſe Shepherds, falſe Apoſtles, and falſe Tea<g ref="char:EOLhyphen"/>chers, and the perſecuting Magiſtrates, that they ever did uſe ſuch oppreſſion: and here theſe Teachers are contrary to the falſe, and contrary to the true, ſhewing the Spirit of errour; therefore you that feare the Lord God, be a<g ref="char:EOLhyphen"/>wakened.</p>
+            <p>The Teachers of the world do manifeſt themſelves to be in the errour, for how many Goales in the Nation are the Servants of God caſt in, by and through their means, which ſhews that they are the Teachers that goes in <hi>Cains</hi> way and <hi>Balaams</hi> way, and ſo in the Spirit of errour which their fruits makes appeare out of the faith of <hi>Abel</hi> the ſufferer.</p>
+            <p>Did ever any perſecute that was in <hi>Abels</hi> faith, whom God hath re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pect to, but ſuch Teachers as goes in <hi>Cains</hi> way, and <hi>Balaams</hi> way, as you may read in <hi>Jude</hi> and <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> and is not here marks of the worlds Teachers, that all
+<pb n="8" facs="tcp:168350:5"/>the honeſt hearted may ſee, that feare God, by their fruits and marks which they themſelves do manifeſt. And do not they manifeſt themſelves to be the bryars and the thornes where the Grapes and Figs growes not? And do not the Teachers of the world manifeſt themſelves to be the ravening Wolves, which have gotten the ſheeps clothing and by their meanes many of Chriſt ſheepe are caſt into pri<g ref="char:EOLhyphen"/>ſons, and there almoſt murdered, and they have made many of their Magiſtrates without the feare of God to be their Executioners, to caſt the Lambs of Chriſt into pri<g ref="char:EOLhyphen"/>ſon, but ſuch as feare God ſee their folly, and the errours of the wicked Teachers are to many too mention.</p>
+            <p>Againe, ſuch Preiſts as preached for hire, and Prophets that divined for mony, and heads that judged for rewards, theſe built up <hi>Zion</hi> with blood, and <hi>Jeruſalem</hi> with iniqui<g ref="char:EOLhyphen"/>ty, therefore ſhall <hi>Zion</hi> for your ſakes be laid waſt, and plowed as a field, and <hi>Jeruſalem</hi> ſhall become as heaps, and the Mountaine of the houſe ſhall be as the forreſt: And all conſider that be in the light, if this Nation be not brought to the ſame paſſe by theſe builder (which are now cryed againſt with the) light that <hi>Micah</hi> was in,<note place="margin">Mich. 3.9.10.11.</note> but them which be in the errour hold up them which be in the er<g ref="char:EOLhyphen"/>rour: but them which be in the light cannot hold up them which be in the errour, neither ever could in all ages, but the light did them judge and condemne; in which light the Saints have their unity, both with the Son and the Fa<g ref="char:EOLhyphen"/>ther: and this was given forth, that all may take warning in their life-time what they hold up.</p>
+            <p>The wicked plotteth againſt the juſt, and gnaſheth upon him with his teeth,<note place="margin">Pſal. 37.12.12.14.</note> the Lord ſhall laugh at him, for he ſeeth that his day is coming. The wicked have drawn out the ſword, and have bent their bow to caſf down the poore and needie, and to ſlay ſuch as be of upright converſation.</p>
+         </div>
+         <trailer>THE END,</trailer>
+      </body>
+   </text>
+</TEI>
